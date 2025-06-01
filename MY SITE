@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Value Dynamics Mapping | Unlock Hidden Business Value</title>
+  <style>
+    /* Reset basic styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #fff; /* White background */
+      color: #000; /* Black text */
+    }
+    
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+      overflow: hidden;
+    }
+    
+    header {
+      background: #000; /* Black header background */
+      color: #fff;
+      padding: 60px 0;
+      text-align: center;
+    }
+    
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 20px;
+    }
+    
+    header img.logo {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+    
+    header p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+    
+    /* Blue buttons */
+    .btn, 
+    .btn-coming-soon, 
+    .btn-linkedin {
+      display: inline-block;
+      background: #007BFF;  /* Blue buttons */
+      color: #fff;
+      padding: 12px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background 0.3s ease;
+      margin: 5px;
+    }
+    
+    .btn:hover, 
+    .btn-coming-soon:hover, 
+    .btn-linkedin:hover {
+      background: #0056b3;
+    }
+    
+    section {
+      padding: 40px 0;
+    }
+    
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    section p {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    ul {
+      list-style: none;
+      margin: 20px 0;
+      padding-left: 0;
+    }
+    
+    ul li {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 5px;
+    }
+    
+    .text-center {
+      text-align: center;
+    }
+    
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    
+    a {
+      color: inherit;
+    }
+    
+    /* Style for the placeholder image */
+    .placeholder-image {
+      display: block; 
+      margin: 20px auto;
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <!-- HEADER / HERO SECTION -->
+  <header id="home">
+    <div class="container">
+      <!-- Placeholder image for logo -->
+      <img src="https://i.imghippo.com/files/zJtT1941CY.jpg" alt="Your Logo" class="logo”>
+      <h1>Value Dynamics Mapping</h1>
+      <p>Unlock the hidden value in your business ecosystem.</p>
+      <!-- "Email Me" button linking to your email address -->
+      <a href="mailto:mr.luke.mcmanus@gmail.com" class="btn">Email Me</a>
+      <!-- LinkedIn button -->
+      <a href="https://www.linkedin.com/in/luke-mcmanus-agile/" target="_blank" class="btn-linkedin">Connect with me on LinkedIn</a>
+      <!-- "Book a call" button linking to Calendly -->
+      <a href="https://calendly.com/luke-cyxg/30min" target="_blank" class="btn">Book a call with me</a>
+    </div>
+  </header>
+
+  <!-- WHAT IS VALUE DYNAMICS? -->
+  <section id="what-is">
+    <div class="container">
+      <h2>What Is Value Dynamics?</h2>
+      <p>
+        Value Dynamics is the study of how value (both tangible and intangible) flows bidirectionally among players/participants (constituents) in a bounded ecosystem (aka value network).
+      </p>
+      <ul>
+        <li><strong>Value Network:</strong> The ecosystem where all related actors (customers, partners, suppliers) interact.</li>
+        <li><strong>Constituents:</strong> The diverse players making up your network.</li>
+        <li><strong>Value Exchange:</strong> The two-way flow of different forms of value—money, products, data, or even trust.</li>
+        <li><strong>Value Currencies:</strong> The various forms of value traded, such as money, services, data, and time savings.</li>
+        <li><strong>API:</strong> The digital bridges enabling seamless value exchange in modern ecosystems.</li>
+        <li><strong>The Value Dynamics Mapping canvas:</strong> A simple, lightweight, yet powerful tool designed to help you visualize, understand, and analyze how value flows within your business ecosystem/organization.</li>
+      </ul>
+      <!-- Large placeholder image for a future JPEG file -->
+      <img src="https://i.imghippo.com/files/YvE5221gs.jpg" alt="Large Placeholder Image" class="placeholder-image">
+    </div>
+  </section>
+
+  <!-- BASIC USE CASES -->
+  <section id="use-cases">
+    <div class="container">
+      <h2>What Can It Be Used For?</h2>
+      <p>Explore these essential use cases:</p>
+      <ul>
+        <li><strong>Analyze Existing Business Models:</strong> Map your current network to identify imbalances or value “leakage.”</li>
+        <li><strong>Define New Business Models:</strong> Sketch “what-if” scenarios to reinvent your business or explore adjacent markets.</li>
+        <li><strong>Find New Value Channels:</strong> Find fresh routes—APIs, digital platforms, alliances—to reach customers effectively.</li>
+        <li><strong>Augment Current Value Exchanges:</strong> Optimize key interactions like supplier contracts or customer onboarding to extract more value.</li>
+        <li><strong>Optimize Supply-Side Exchanges:</strong> Diversify or deepen partnerships to balance cost, quality, and resilience.</li>
+        <li><strong>Connect Value Networks:</strong> Bridge your ecosystem with complementary networks for cross-pollination of value.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- WHO IS IT FOR? -->
+  <section id="audience">
+    <div class="container">
+      <h2>Who Is This For?</h2>
+      <p>This framework is designed for leaders, innovators, and teams looking to reshape their business strategies:</p>
+      <ul>
+        <li><strong>Business Leaders & Executives:</strong> Steering strategy and driving change.</li>
+        <li><strong>Innovators & Entrepreneurs:</strong> Disrupting traditional models and exploring new opportunities.</li>
+        <li><strong>Digital Transformation Specialists:</strong> Integrating APIs and modern technologies with strategic planning.</li>
+        <li><strong>Consultants & Analysts:</strong> Uncovering hidden potential within complex ecosystems.</li>
+        <li><strong>Senior Leaders:</strong> Representing both Technology and Business.</li>
+        <li><strong>Strategy & Innovation Teams:</strong> Pioneering new business models.</li>
+        <li><strong>Research & Business Development Teams:</strong> Exploring and validating new growth opportunities.</li>
+        <li><strong>Product & Platform Owners:</strong> Maximizing value delivery.</li>
+        <li><strong>Architects & Business Analysts:</strong> Designing scalable systems and structures.</li>
+        <li><strong>Sales, Marketing & Operations Representatives:</strong> Enhancing customer and market engagement.</li>
+        <li><strong>Frontline & Customer Success Representatives:</strong> Elevating the customer experience.</li>
+        <li><strong>Supply Chain & Partnership Managers:</strong> Streamlining supplier networks and building strong partnerships.</li>
+        <li><strong>Agile Coaches:</strong> Guiding teams in understanding collaboration inefficiencies and improving value flow within Agile frameworks.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- CONTACT SECTION -->
+  <section id="contact">
+    <div class="container">
+      <h2>Let’s Talk</h2>
+      <p><strong>Email:</strong> <a href="mailto:mr.luke.mcmanus@gmail.com">mr.luke.mcmanus@gmail.com</a></p>
+      <p><strong>Phone:</strong> +61 4 11 787 687</p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2025 Value Dynamics Mapping. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
